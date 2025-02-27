@@ -1,5 +1,6 @@
 # DevX Intern Repository
 
+Edited
 ## Project Overview
 This repository contains my work as a DevX intern, focusing on building a personal website. The project involves developing a fully responsive site that showcases my portfolio, skills, and experiences while incorporating modern web technologies.
 
